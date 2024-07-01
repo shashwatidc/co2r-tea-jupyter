@@ -1,5 +1,4 @@
-# co2r-tea-jupyter
-Physics-informed technoeconomic assessment for CO<sub>2</sub>R
+### Physics-informed technoeconomic assessment for CO<sub>2</sub>R
 
 **Cite this work : [__]()**
 
