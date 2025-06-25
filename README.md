@@ -6,7 +6,7 @@
 
 This tool generates the capital and operating cost for a CO₂ reduction process converting captured CO₂ into either CO or ethylene. It generates all figures in our [2024 paper](https://pubs.acs.org/doi/10.1021/acsenergylett.4c02647).
 
-For a more interactive version of this backend, check out the [CO<sub>2</sub>R Costing Dashboard web app](https://co2r-dashboard.streamlit.app/).You only need this repository if you want to see and run the raw model. Fork or download/clone the entire repository - none of these notebooks run independendtly. Get started by running all of `<version>_4_TEA_Integrated.ipynb` - it will prompt you to interact and set up the figures you want.
+For a more interactive version of this backend, check out the [CO<sub>2</sub>R Costing Dashboard web app](https://co2r-dashboard.streamlit.app/).You only need this repository if you want to see and run the raw model. Fork or download/clone the entire repository - none of these notebooks run independently. Get started by running all of `<version>_4_TEA_Integrated.ipynb` - it will prompt you to interact and set up the figures you want.
 
 **Figure generation and analysis**
 
