@@ -1,8 +1,7 @@
 ### Physics-informed technoeconomic assessment for CO<sub>2</sub>R
 
 **Cite this work** : 
-> Da Cunha, S.; Resasco, J. Insights from Techno-Economic Analysis Can Guide the Design of Low-Temperature CO₂ Electrolyzers towards Industrial Scaleup. ACS Energy Lett. 2024, 9, 11, 5550–5561. DOI: [10.1021/acsenergylett.4c02647](https://pubs.acs.org/doi/10.1021/acsenergylett.4c02647). 
-         
+> Da Cunha, S.; Resasco, J. Insights from Techno-Economic Analysis Can Guide the Design of Low-Temperature CO₂ Electrolyzers towards Industrial Scaleup. ACS Energy Lett. 2024, 9, 11, 5550–5561. DOI: [10.1021/acsenergylett.4c02647](https://pubs.acs.org/doi/10.1021/acsenergylett.4c02647).
 
 This tool generates the capital and operating cost for a CO₂ reduction process converting captured CO₂ into either CO or ethylene. It generates all figures in our [2024 paper](https://pubs.acs.org/doi/10.1021/acsenergylett.4c02647).
 
@@ -32,3 +31,5 @@ Data for constants, utilities and products: `Supplementary Workbook.xlsx`
 License: `LICENSE.md`
 
 Readme: `README.md`
+
+Packages: `requirements.txt` (can be installed with pip, for example)
