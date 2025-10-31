@@ -2,6 +2,7 @@
 
 **Cite this work** : 
 > Da Cunha, S.; Resasco, J. Insights from Techno-Economic Analysis Can Guide the Design of Low-Temperature CO₂ Electrolyzers towards Industrial Scaleup. ACS Energy Lett. 2024, 9, 11, 5550–5561. DOI: [10.1021/acsenergylett.4c02647](https://pubs.acs.org/doi/10.1021/acsenergylett.4c02647).
+
 > Da Cunha, S.; Resasco, J. Techno-economic assessment of non-aqueous CO2 reduction. Chem Catalysis 2025. DOI: [10.1016/j.checat.2025.101548](https://doi.org/10.1016/j.checat.2025.101548)
 
 This tool generates the capital and operating cost for a CO₂ reduction process converting captured CO₂ into either CO or ethylene. It generates all figures in our [2024 paper](https://pubs.acs.org/doi/10.1021/acsenergylett.4c02647).
