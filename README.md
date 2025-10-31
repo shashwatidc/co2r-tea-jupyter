@@ -31,3 +31,5 @@ Data for constants, utilities and products: `Supplementary Workbook.xlsx`
 License: `LICENSE.md`
 
 Readme: `README.md`
+
+Packages: `requirements.txt` (can be installed with pip, for example)
